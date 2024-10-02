@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "364850862791",
+    "firebase_url": "https://fir-auth-tutorial-4d656-default-rtdb.firebaseio.com",
+    "project_id": "fir-auth-tutorial-4d656",
+    "storage_bucket": "fir-auth-tutorial-4d656.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364850862791:android:cfa0ef15160d63fea2bce2",
+        "android_client_info": {
+          "package_name": "com.mynewproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA33hzq-E8A9WEafBsheRlA6rSKh0KaZsk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
